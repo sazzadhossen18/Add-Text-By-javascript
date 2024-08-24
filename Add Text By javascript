@@ -1,0 +1,3 @@
+<script>
+   $('.product__info-container > .product__title').before('<div class="test'>test</div>')
+</script>
